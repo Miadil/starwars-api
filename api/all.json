@@ -29,10 +29,7 @@
       "New Republic",
       "Resistance"
     ],
-    "masters": [
-      "Obi-Wan Kenobi",
-      "Yoda"
-    ],
+    "masters": ["Obi-Wan Kenobi", "Yoda"],
     "apprentices": [
       "Leia Organa",
       "Ben Solo (along with a dozen apprentices)",
@@ -160,10 +157,7 @@
       "Darth Sidious (Sith Master)",
       "Yoda (Force spirit teacher)"
     ],
-    "apprentices": [
-      "Ahsoka Tano (Padawan)",
-      "Inquisitorius"
-    ],
+    "apprentices": ["Ahsoka Tano (Padawan)", "Inquisitorius"],
     "formerAffiliations": [
       "Jedi Order",
       "Jedi High Council",
@@ -218,9 +212,7 @@
     "hairColor": "brown, later gray",
     "eyeColor": "blue",
     "skinColor": "light",
-    "affiliations": [
-      "Lars family"
-    ],
+    "affiliations": ["Lars family"],
     "born": -52,
     "formerAffiliations": []
   },
@@ -258,9 +250,7 @@
     "class": "Astromech droid",
     "sensorColor": "red",
     "platingColor": "white, red, blue",
-    "affiliations": [
-      "Alliance to Restore the Republic"
-    ],
+    "affiliations": ["Alliance to Restore the Republic"],
     "skinColor": "white, red",
     "eyeColor": "red",
     "formerAffiliations": []
@@ -313,14 +303,8 @@
       "212th Attack Battalion",
       "Alliance to Restore the Republic"
     ],
-    "masters": [
-      "Qui-Gon Jinn",
-      "Yoda"
-    ],
-    "apprentices": [
-      "Anakin Skywalker",
-      "Luke Skywalker"
-    ],
+    "masters": ["Qui-Gon Jinn", "Yoda"],
+    "apprentices": ["Anakin Skywalker", "Luke Skywalker"],
     "formerAffiliations": []
   },
   {
@@ -352,10 +336,7 @@
       "Darth Sidious (Sith Master)",
       "Yoda (Force spirit teacher)"
     ],
-    "apprentices": [
-      "Ahsoka Tano (Padawan)",
-      "Inquisitorius"
-    ],
+    "apprentices": ["Ahsoka Tano (Padawan)", "Inquisitorius"],
     "formerAffiliations": [
       "Jedi Order",
       "Jedi High Council",
@@ -457,10 +438,7 @@
     "height": 1.74,
     "mass": 74,
     "gender": "male",
-    "homeworld": [
-      "Rodia",
-      "Tatooine"
-    ],
+    "homeworld": ["Rodia", "Tatooine"],
     "wiki": "http://starwars.wikia.com/wiki/Greedo",
     "image": "https://vignette.wikia.nocookie.net/starwars/images/c/c6/Greedo.jpg",
     "died": 0,
@@ -468,9 +446,7 @@
     "species": "rodian",
     "eyeColor": "purple",
     "skinColor": "green",
-    "affiliations": [
-      "Trade Federation"
-    ],
+    "affiliations": ["Trade Federation"],
     "born": -44,
     "formerAffiliations": []
   },
@@ -601,11 +577,7 @@
     "hairColor": "red, later gray and white",
     "eyeColor": "blue; yellow/red (dark side)",
     "skinColor": "fair, later pale",
-    "era": [
-      "Rise of the Empire era",
-      "Rebellion era",
-      "New Republic era"
-    ],
+    "era": ["Rise of the Empire era", "Rebellion era", "New Republic era"],
     "affiliations": [
       "House Palpatine",
       "Damask Holdings",
@@ -703,7 +675,7 @@
   {
     "id": 24,
     "name": "Bossk",
-    "height": 1.90,
+    "height": 1.9,
     "mass": 113,
     "gender": "male",
     "homeworld": "trandosha",
@@ -755,7 +727,7 @@
     "gender": "male",
     "homeworld": "bespin",
     "wiki": "http://starwars.wikia.com/wiki/Lobot",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/9/96/SWE_Lobot.jpg",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/databank_lobot_01_169_8a50d7ae.jpeg",
     "species": "human",
     "eyeColor": "blue",
     "skinColor": "light",
@@ -809,7 +781,7 @@
     "gender": "female",
     "homeworld": "chandrila",
     "wiki": "http://starwars.wikia.com/wiki/Mon_Mothma",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/b7/MP-MonMothma.png",
+    "image": "https://static.wikia.nocookie.net/frstarwars/images/a/a7/Mon_Mothma.jpg/revision/latest/scale-to-width-down/350?cb=20150314110814",
     "born": -46,
     "species": "human",
     "hairColor": "auburn",
@@ -838,10 +810,7 @@
     "species": "human",
     "eyeColor": "brown",
     "skinColor": "light",
-    "affiliations": [
-      "Alliance to Restore the Republic",
-      "Green Squadron"
-    ],
+    "affiliations": ["Alliance to Restore the Republic", "Green Squadron"],
     "hairColor": "brown",
     "formerAffiliations": []
   },
@@ -857,10 +826,7 @@
     "species": "ewok",
     "hairColor": "brown",
     "eyeColor": "brownish black",
-    "affiliations": [
-      "Bright Tree tribe",
-      "Alliance to Restore the Republic"
-    ],
+    "affiliations": ["Bright Tree tribe", "Alliance to Restore the Republic"],
     "skinColor": "brown",
     "born": -8,
     "formerAffiliations": []
@@ -902,10 +868,7 @@
     "hairColor": "brown",
     "eyeColor": "blue",
     "skinColor": "light",
-    "affiliations": [
-      "Jedi Order",
-      "Galactic Republic"
-    ],
+    "affiliations": ["Jedi Order", "Galactic Republic"],
     "masters": "Dooku",
     "apprentices": [
       "Obi-Wan Kenobi",
@@ -948,11 +911,7 @@
     "hairColor": "white",
     "eyeColor": "blue",
     "skinColor": "fair",
-    "affiliations": [
-      "House Valorum",
-      "Galactic Republic",
-      "Galactic Senate"
-    ],
+    "affiliations": ["House Valorum", "Galactic Republic", "Galactic Senate"],
     "born": -91,
     "formerAffiliations": []
   },
@@ -1016,15 +975,13 @@
     "gender": "male",
     "homeworld": "naboo",
     "wiki": "http://starwars.wikia.com/wiki/Roos_Tarpals",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/c/ca/TarpalsHS.jpg",
+    "image": "https://static.wikia.nocookie.net/p__/images/d/d5/2085851Tarpals_640px.jpg/revision/latest?cb=20151010155937&path-prefix=protagonist",
     "died": -20,
     "diedLocation": "naboo",
     "species": "gungan",
     "eyeColor": "orange",
     "skinColor": "purple and white",
-    "affiliations": [
-      "Gungan Grand Army"
-    ],
+    "affiliations": ["Gungan Grand Army"],
     "formerAffiliations": []
   },
   {
@@ -1038,9 +995,7 @@
     "species": "gungan",
     "eyeColor": "yellow",
     "skinColor": "green",
-    "affiliations": [
-      "Gungan High Council"
-    ],
+    "affiliations": ["Gungan High Council"],
     "formerAffiliations": []
   },
   {
@@ -1073,10 +1028,7 @@
     "species": "toydarian",
     "eyeColor": "orange",
     "skinColor": "blue",
-    "affiliations": [
-      "Watto's shop",
-      "Mos Espa"
-    ],
+    "affiliations": ["Watto's shop", "Mos Espa"],
     "hairColor": "black",
     "formerAffiliations": []
   },
@@ -1126,7 +1078,7 @@
     "gender": "female",
     "homeworld": "tatooine",
     "wiki": "http://starwars.wikia.com/wiki/Shmi_Skywalker_Lars",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/a/ad/ShmiSkywalkerDatabank_%28Repurposed%29.jpeg",
+    "image": "https://static.wikia.nocookie.net/frstarwars/images/c/c5/Shmi_Skywalker.jpg/revision/latest?cb=20180303190915",
     "born": -72,
     "died": -22,
     "diedLocation": "tatooine",
@@ -1134,10 +1086,7 @@
     "hairColor": "brown",
     "eyeColor": "brown",
     "skinColor": "light",
-    "affiliations": [
-      "Skywalker family",
-      "Lars family"
-    ],
+    "affiliations": ["Skywalker family", "Lars family"],
     "formerAffiliations": []
   },
   {
@@ -1154,10 +1103,7 @@
     "species": "dathomirian zabrak",
     "eyeColor": "yellow and red",
     "skinColor": "red (black tattoos)",
-    "cybernetics": [
-      "Six-legged apparatus (formerly)",
-      "Two cybernetic legs"
-    ],
+    "cybernetics": ["Six-legged apparatus (formerly)", "Two cybernetic legs"],
     "affiliations": [
       "Nightbrothers",
       "Sith",
@@ -1168,9 +1114,7 @@
     "masters": "Darth Sidious",
     "apprentices": "Savage Opress",
     "born": -54,
-    "formerAffiliations": [
-      "Trade Federation"
-    ]
+    "formerAffiliations": ["Trade Federation"]
   },
   {
     "id": 45,
@@ -1207,10 +1151,7 @@
     "eyeColor": "hazel",
     "skinColor": "blue",
     "era": "Rise of the Empire era",
-    "affiliations": [
-      "Jedi Order",
-      "Galactic Republic"
-    ],
+    "affiliations": ["Jedi Order", "Galactic Republic"],
     "masters": [
       "Quinlan Vos (Jedi Master)",
       "Volfe Karkko (Dark Jedi master) (briefly)",
@@ -1226,7 +1167,7 @@
     "gender": "male",
     "homeworld": "aleen",
     "wiki": "http://starwars.wikia.com/wiki/Ratts_Tyerell",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/6/68/RattsHS.jpg",
+    "image": "https://rpggamer.org/uploaded_images/RattsHS.jpg",
     "died": -32,
     "diedLocation": "tatooine",
     "species": "aleena",
@@ -1257,7 +1198,7 @@
     "gender": "male",
     "homeworld": "troiken",
     "wiki": "http://starwars.wikia.com/wiki/Gasgano",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/57/GasganoHS-SWE.jpg",
+    "image": "https://static.wikia.nocookie.net/frstarwars/images/0/0e/GasganoSWE.png/revision/latest?cb=20211215214702",
     "species": "xexto",
     "eyeColor": "black",
     "skinColor": "white, brown, purple",
@@ -1272,7 +1213,7 @@
     "gender": "male",
     "homeworld": "tund",
     "wiki": "http://starwars.wikia.com/wiki/Ben_Quadinaros",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/7f/Cropped_Quadinaros.png",
+    "image": "https://static.wikia.nocookie.net/frstarwars/images/7/7f/Cropped_Quadinaros.png/revision/latest?cb=20170312120102",
     "species": "toong",
     "eyeColor": "orange",
     "skinColor": "yellow",
@@ -1287,7 +1228,7 @@
     "gender": "male",
     "homeworld": "haruun kal",
     "wiki": "http://starwars.wikia.com/wiki/Mace_Windu",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/5/58/Mace_ROTS.png",
+    "image": "https://static.wikia.nocookie.net/heroes-fr/images/3/3e/Df22d236d16b5c80426a0923929e4849.jpg/revision/latest?cb=20201202112016&path-prefix=fr",
     "born": -72,
     "died": -19,
     "diedLocation": "coruscant",
@@ -1384,7 +1325,7 @@
     "gender": "female",
     "homeworld": "coruscant",
     "wiki": "http://starwars.wikia.com/wiki/Adi_Gallia",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg",
+    "image": "https://static.wikia.nocookie.net/esstarwars/images/c/c8/AdiGallia2-SWE.jpg/revision/latest?cb=20161001214802",
     "died": -20,
     "diedLocation": "florrum",
     "species": "tholothian",
@@ -1433,11 +1374,7 @@
     "species": "quermian",
     "eyeColor": "red",
     "skinColor": "pasty white",
-    "affiliations": [
-      "Jedi Order",
-      "Jedi High Council",
-      "Galactic Republic"
-    ],
+    "affiliations": ["Jedi Order", "Jedi High Council", "Galactic Republic"],
     "formerAffiliations": []
   },
   {
@@ -1540,9 +1477,7 @@
     "hairColor": "light brown",
     "eyeColor": "blue",
     "skinColor": "fair",
-    "affiliations": [
-      "Lars family"
-    ],
+    "affiliations": ["Lars family"],
     "born": -82,
     "formerAffiliations": []
   },
@@ -1659,10 +1594,7 @@
       "Independent Movement for Self-Determination",
       "Confederacy of Independent Systems"
     ],
-    "masters": [
-      "Yoda (Jedi)",
-      "Darth Sidious (Sith)"
-    ],
+    "masters": ["Yoda (Jedi)", "Darth Sidious (Sith)"],
     "apprentices": [
       "Qui-Gon Jinn (Jedi)",
       "Grievous (lightsaber trainee)",
@@ -1670,10 +1602,7 @@
       "Savage Opress (Sith)",
       "Quinlan Vos (Sith)"
     ],
-    "formerAffiliations": [
-      "Jedi Order",
-      "Galactic Republic"
-    ]
+    "formerAffiliations": ["Jedi Order", "Galactic Republic"]
   },
   {
     "id": 68,
@@ -1690,10 +1619,7 @@
     "hairColor": "black",
     "eyeColor": "brown",
     "skinColor": "tan",
-    "era": [
-      "Rise of the Empire era",
-      "Rebellion era"
-    ],
+    "era": ["Rise of the Empire era", "Rebellion era"],
     "affiliations": [
       "House of Organa",
       "High Court of Alderaan",
@@ -1729,10 +1655,7 @@
     "hairColor": "black",
     "eyeColor": "brown",
     "skinColor": "tan",
-    "affiliations": [
-      "Confederacy of Independent Systems",
-      "Tyranus"
-    ],
+    "affiliations": ["Confederacy of Independent Systems", "Tyranus"],
     "born": -66,
     "formerAffiliations": []
   },
@@ -1749,10 +1672,7 @@
     "diedLocation": "coruscant",
     "species": "clawdite",
     "skinColor": "green",
-    "affiliations": [
-      "Mabari",
-      "Confederacy of Independent Systems"
-    ],
+    "affiliations": ["Mabari", "Confederacy of Independent Systems"],
     "hairColor": "blond",
     "eyeColor": "yellow",
     "formerAffiliations": []
@@ -1770,9 +1690,7 @@
     "hairColor": "brown-black",
     "eyeColor": "yellow",
     "skinColor": "tan-brown",
-    "affiliations": [
-      "Dex's Diner"
-    ],
+    "affiliations": ["Dex's Diner"],
     "formerAffiliations": []
   },
   {
@@ -1787,9 +1705,7 @@
     "species": "kaminoan",
     "eyeColor": "black with white pupils",
     "skinColor": "white",
-    "affiliations": [
-      "Galactic Republic"
-    ],
+    "affiliations": ["Galactic Republic"],
     "formerAffiliations": []
   },
   {
@@ -1803,9 +1719,7 @@
     "species": "kaminoan",
     "eyeColor": "black with white pupils",
     "skinColor": "white",
-    "affiliations": [
-      "Galactic Republic"
-    ],
+    "affiliations": ["Galactic Republic"],
     "formerAffiliations": []
   },
   {
@@ -1822,10 +1736,7 @@
     "hairColor": "white",
     "eyeColor": "blue",
     "skinColor": "light",
-    "affiliations": [
-      "Jedi Order",
-      "Jedi High Council"
-    ],
+    "affiliations": ["Jedi Order", "Jedi High Council"],
     "formerAffiliations": []
   },
   {
@@ -1843,9 +1754,7 @@
     "class": "Astromech droid",
     "platingColor": "red",
     "armament": "Electro-shock prod",
-    "affiliations": [
-      "Galactic Republic"
-    ],
+    "affiliations": ["Galactic Republic"],
     "skinColor": "silver, red",
     "eyeColor": "red, blue",
     "formerAffiliations": []
@@ -1951,9 +1860,7 @@
     "species": "wookiee",
     "hairColor": "brown",
     "eyeColor": "blue",
-    "affiliations": [
-      "Galactic Republic"
-    ],
+    "affiliations": ["Galactic Republic"],
     "skinColor": "brown",
     "formerAffiliations": []
   },
@@ -2010,9 +1917,7 @@
     "species": "pau'an",
     "eyeColor": "black",
     "skinColor": "gray (with red markings)",
-    "affiliations": [
-      "Galactic Republic"
-    ],
+    "affiliations": ["Galactic Republic"],
     "formerAffiliations": []
   },
   {
@@ -2028,11 +1933,7 @@
     "hairColor": "black",
     "eyeColor": "brown",
     "skinColor": "dark",
-    "affiliations": [
-      "First Order",
-      "FN Corps",
-      "Resistance"
-    ],
+    "affiliations": ["First Order", "FN Corps", "Resistance"],
     "formerAffiliations": []
   },
   {
@@ -2049,10 +1950,7 @@
     "hairColor": "brown",
     "eyeColor": "hazel",
     "skinColor": "light",
-    "affiliations": [
-      "Resistance",
-      "Jedi Order"
-    ],
+    "affiliations": ["Resistance", "Jedi Order"],
     "masters": "Luke Skywalker",
     "formerAffiliations": []
   },

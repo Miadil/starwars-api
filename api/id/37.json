@@ -6,14 +6,12 @@
   "gender": "male",
   "homeworld": "naboo",
   "wiki": "http://starwars.wikia.com/wiki/Roos_Tarpals",
-  "image": "https://vignette.wikia.nocookie.net/starwars/images/c/ca/TarpalsHS.jpg",
+  "image": "https://static.wikia.nocookie.net/p__/images/d/d5/2085851Tarpals_640px.jpg/revision/latest?cb=20151010155937&path-prefix=protagonist",
   "died": -20,
   "diedLocation": "naboo",
   "species": "gungan",
   "eyeColor": "orange",
   "skinColor": "purple and white",
-  "affiliations": [
-    "Gungan Grand Army"
-  ],
+  "affiliations": ["Gungan Grand Army"],
   "formerAffiliations": []
 }
