@@ -6,12 +6,10 @@
   "gender": "male",
   "homeworld": "utapau",
   "wiki": "http://starwars.wikia.com/wiki/Tion_Medon",
-  "image": "https://vignette.wikia.nocookie.net/starwars/images/4/43/Tion_Medon.jpg",
+  "image": "https://static.wikia.nocookie.net/frstarwars/images/0/0f/Tion_Medon.png",
   "species": "pau'an",
   "eyeColor": "black",
   "skinColor": "gray (with red markings)",
-  "affiliations": [
-    "Galactic Republic"
-  ],
+  "affiliations": ["Galactic Republic"],
   "formerAffiliations": []
 }
