@@ -1,0 +1,15 @@
+{
+  "id": 48,
+  "name": "Dud Bolt",
+  "height": 0.94,
+  "mass": 45,
+  "gender": "male",
+  "homeworld": "vulpter",
+  "wiki": "http://starwars.wikia.com/wiki/Dud_Bolt",
+  "image": "https://static.wikia.nocookie.net/frstarwars/images/b/b0/Dud_Bolt.jpg",
+  "species": "vulptereen",
+  "eyeColor": "yellow",
+  "skinColor": "blue-gray, yellow, white",
+  "affiliations": [],
+  "formerAffiliations": []
+}

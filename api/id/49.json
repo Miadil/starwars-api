@@ -1,0 +1,14 @@
+{
+  "id": 49,
+  "name": "Gasgano",
+  "height": 1.22,
+  "gender": "male",
+  "homeworld": "troiken",
+  "wiki": "http://starwars.wikia.com/wiki/Gasgano",
+  "image": "https://static.wikia.nocookie.net/frstarwars/images/0/0e/GasganoSWE.png",
+  "species": "xexto",
+  "eyeColor": "black",
+  "skinColor": "white, brown, purple",
+  "affiliations": [],
+  "formerAffiliations": []
+}

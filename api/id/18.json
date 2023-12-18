@@ -1,0 +1,26 @@
+{
+  "id": 18,
+  "name": "Wedge Antilles",
+  "height": 1.7,
+  "mass": 77,
+  "gender": "male",
+  "homeworld": "corellia",
+  "wiki": "http://starwars.wikia.com/wiki/Wedge_Antilles",
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Wedge_Antilles-Denis_Lawson-Star_Wars_%281977%29.jpg",
+  "species": "human",
+  "hairColor": "brown",
+  "eyeColor": "brown",
+  "skinColor": "light",
+  "affiliations": [
+    "Galactic Empire",
+    "Alliance to Restore the Republic",
+    "Phoenix Cell",
+    "Massassi Group",
+    "Red Squadron",
+    "Rogue Squadron",
+    "New Republic",
+    "Phantom Squadron"
+  ],
+  "born": -21,
+  "formerAffiliations": []
+}
