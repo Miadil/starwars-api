@@ -11,7 +11,7 @@
     "gender": "male",
     "homeworld": "tatooine",
     "wiki": "http://starwars.wikia.com/wiki/Luke_Skywalker",
-    "image": "./assets/LukeSkywalker.png",
+    "image": "https://raw.githubusercontent.com/Miadil/starwars-api/2cbb0ca51ead0bf5f59addc8f016247da775f475/api/assets/Luke%20Skywalker.png",
     "born": -19,
     "bornLocation": "polis massa",
     "died": 34,
