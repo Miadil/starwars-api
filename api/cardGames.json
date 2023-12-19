@@ -3,15 +3,15 @@
     "id": 1,
 
     "atk": "",
-    "def":"",
-    "pv":"",    
+    "def": "",
+    "pv": "",
     "name": "Luke Skywalker",
     "height": 1.72,
     "mass": 73,
     "gender": "male",
     "homeworld": "tatooine",
     "wiki": "http://starwars.wikia.com/wiki/Luke_Skywalker",
-    "image": "https://raw.githubusercontent.com/Miadil/starwars-api/2cbb0ca51ead0bf5f59addc8f016247da775f475/api/assets/Luke%20Skywalker.png",
+    "image": "https://raw.githubusercontent.com/Miadil/starwars-api/2cbb0ca51ead0bf5f59addc8f016247da775f475/api/assets/Luke_Skywalker.png",
     "born": -19,
     "bornLocation": "polis massa",
     "died": 34,
@@ -45,8 +45,8 @@
     "id": 2,
 
     "atk": "",
-    "def":"",
-    "pv":"",    
+    "def": "",
+    "pv": "",
     "name": "C-3PO",
     "height": 1.71,
     "mass": 75,
@@ -54,7 +54,7 @@
     "homeworld": "tatooine",
     "species": "droid",
     "wiki": "http://starwars.wikia.com/wiki/C-3PO",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/3/3f/C-3PO_TLJ_Card_Trader_Award_Card.png",
+    "image": "https://github.com/Miadil/starwars-api/blob/master/api/assets/C-3po.png",
     "dateCreated": -32,
     "dateDestroyed": 3,
     "destroyedLocation": "bespin, rebuilt shortly after",
@@ -91,8 +91,8 @@
     "id": 3,
 
     "atk": "",
-    "def":"",
-    "pv":"",    
+    "def": "",
+    "pv": "",
     "name": "R2-D2",
     "height": 1.09,
     "mass": 32,
@@ -144,8 +144,8 @@
     "id": 4,
 
     "atk": "",
-    "def":"",
-    "pv":"",    
+    "def": "",
+    "pv": "",
     "name": "Darth Vader",
     "height": 2.03,
     "mass": 120,
@@ -184,8 +184,8 @@
     "id": 5,
 
     "atk": "",
-    "def":"",
-    "pv":"",    
+    "def": "",
+    "pv": "",
     "name": "Leia Organa",
     "height": 1.5,
     "mass": 51,
@@ -218,12 +218,11 @@
     "formerAffiliations": []
   },
 
- 
   {
     "id": 6,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Obi-Wan Kenobi",
     "height": 1.82,
     "mass": 81,
@@ -252,8 +251,8 @@
   {
     "id": 7,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Anakin Skywalker",
     "height": 2.03,
     "mass": 120,
@@ -291,8 +290,8 @@
   {
     "id": 8,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Wilhuff Tarkin",
     "height": 1.82,
     "gender": "male",
@@ -325,8 +324,8 @@
   {
     "id": 9,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Chewbacca",
     "height": 2.28,
     "mass": 112,
@@ -354,8 +353,8 @@
   {
     "id": 10,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Han Solo",
     "height": 1.8,
     "mass": 80,
@@ -389,8 +388,8 @@
   {
     "id": 11,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Greedo",
     "height": 1.74,
     "mass": 74,
@@ -410,8 +409,8 @@
   {
     "id": 12,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Jabba Desilijic Tiure",
     "height": 3.9,
     "mass": 1358,
@@ -437,12 +436,12 @@
     ],
     "formerAffiliations": []
   },
-  
+
   {
     "id": 13,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Yoda",
     "height": 0.66,
     "mass": 13,
@@ -478,8 +477,8 @@
   {
     "id": 14,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Palpatine",
     "height": 1.78,
     "mass": 75,
@@ -529,15 +528,15 @@
   {
     "id": 15,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Boba Fett",
     "height": 1.83,
     "mass": 78,
     "gender": "male",
     "homeworld": "kamino",
     "wiki": "http://starwars.wikia.com/wiki/Boba_Fett",
-    "image": "https://vignette.wikia.nocookie.net/starwars/images/7/79/Boba_Fett_HS_Fathead.png",
+    "image": "https://raw.githubusercontent.com/Miadil/starwars-api/master/api/assets/Boba_Fett.png",
     "born": "Shortly after the Battle of Naboo",
     "species": "human",
     "hairColor": "black",
@@ -551,13 +550,12 @@
     ],
     "formerAffiliations": []
   },
-  
 
   {
     "id": 16,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Qui-Gon Jinn",
     "height": 1.93,
     "mass": 89,
@@ -584,8 +582,8 @@
   {
     "id": 17,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Nute Gunray",
     "height": 1.91,
     "mass": 90,
@@ -608,8 +606,8 @@
   {
     "id": 18,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Finis Valorum",
     "height": 1.7,
     "gender": "male",
@@ -627,8 +625,8 @@
   {
     "id": 19,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Padmé Amidala",
     "height": 1.65,
     "mass": 45,
@@ -656,12 +654,12 @@
     ],
     "formerAffiliations": []
   },
-  
+
   {
     "id": 20,
     "atk": "",
-    "def":"",
-    "pv":"",
+    "def": "",
+    "pv": "",
     "name": "Darth Maul",
     "height": 1.75,
     "mass": 80,
