@@ -54,7 +54,7 @@
     "homeworld": "tatooine",
     "species": "droid",
     "wiki": "http://starwars.wikia.com/wiki/C-3PO",
-    "image": "https://github.com/Miadil/starwars-api/blob/master/api/assets/C-3po.png",
+    "image": "https://github.com/Miadil/starwars-api/blob/master/api/assets/C-3po.png?raw=true",
     "dateCreated": -32,
     "dateDestroyed": 3,
     "destroyedLocation": "bespin, rebuilt shortly after",
