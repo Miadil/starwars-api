@@ -10,8 +10,8 @@ StarWars characters open-source REST API
 
 - [`/all.json`](https://miadil.github.io/starwars-api/api/all.json)
 - [`/id`](https://miadil.github.io/starwars-api/api/id/1.json)
+- - [`/cardGames.json`](https://miadil.github.io/starwars-api/api/cardGames.json)
 
----
 
 ## Routes
 
